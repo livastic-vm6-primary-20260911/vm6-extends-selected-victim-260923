@@ -1,2 +1,0 @@
-extends: mergify-transfer-boundary-vm6
-pull_request_rules: []
